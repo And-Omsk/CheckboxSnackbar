@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checkbox Snackbar</string>
+    <string name="inputText">Поле ввода информации</string>
+    <string name="outputText">Поле вывода информации</string>
+    <string name="saveButton">Сохранить данные</string>
+    <string name="deleteButton">Удалить данные</string>
+    <string name="pddTextView">Информация</string>
+    <string name="pddText">Правила дорожного движения</string>
+    <string name="pddInfoView">1.1. Настоящие Правила дорожного движения 2024 года устанавливают
+        единый порядок дорожного движения на всей территории Российской Федерации(РФ).
+        Другие нормативные акты, касающиеся дорожного движения, должны основываться на требованиях
+        Правил и не противоречить им. В дальнейшем - Правила.</string>
+</resources>
